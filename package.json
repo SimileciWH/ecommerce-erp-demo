@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "validate": "node scripts/validate-data.mjs"
+    "validate": "node scripts/validate-data.mjs",
+    "test:root-layout": "node scripts/test-root-layout-hydration.mjs"
   },
   "dependencies": {
     "echarts": "^6.0.0",
