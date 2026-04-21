@@ -137,6 +137,30 @@ function formatTemplateDateTime(timeLike) {
   return `${currentUtc8Date()} ${templateTimeOfDay(timeLike)}`;
 }
 
+function canUseFullscreen() {
+  if (typeof document === 'undefined') return false;
+  const root = document.documentElement;
+  return typeof root.requestFullscreen === 'function' || typeof root.webkitRequestFullscreen === 'function';
+}
+
+function isFullscreenActive() {
+  if (typeof document === 'undefined') return false;
+  return Boolean(document.fullscreenElement || document.webkitFullscreenElement);
+}
+
+function enterFullscreen() {
+  const root = document.documentElement;
+  if (typeof root.requestFullscreen === 'function') return root.requestFullscreen();
+  if (typeof root.webkitRequestFullscreen === 'function') return root.webkitRequestFullscreen();
+  return Promise.reject(new Error('Fullscreen is not supported.'));
+}
+
+function exitFullscreen() {
+  if (typeof document.exitFullscreen === 'function') return document.exitFullscreen();
+  if (typeof document.webkitExitFullscreen === 'function') return document.webkitExitFullscreen();
+  return Promise.resolve();
+}
+
 function relativeTime(triggerSeconds, nowSeconds) {
   const diff = Math.max(0, nowSeconds - triggerSeconds);
   if (diff < 60) return '刚刚';
@@ -582,6 +606,8 @@ function Dashboard({ data, onLogout }) {
   const [mapMetric, setMapMetric] = useState('sales');
   const [platformMetric, setPlatformMetric] = useState('sales');
   const [orderScrollIndex, setOrderScrollIndex] = useState(0);
+  const [fullscreenEnabled, setFullscreenEnabled] = useState(false);
+  const [isFullscreen, setIsFullscreen] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -589,6 +615,21 @@ function Dashboard({ data, onLogout }) {
       setNowSeconds(currentSecondsOfDay());
     }, 1000);
     return () => clearInterval(timer);
+  }, []);
+
+  useEffect(() => {
+    const syncFullscreen = () => {
+      setFullscreenEnabled(canUseFullscreen());
+      setIsFullscreen(isFullscreenActive());
+    };
+
+    syncFullscreen();
+    document.addEventListener('fullscreenchange', syncFullscreen);
+    document.addEventListener('webkitfullscreenchange', syncFullscreen);
+    return () => {
+      document.removeEventListener('fullscreenchange', syncFullscreen);
+      document.removeEventListener('webkitfullscreenchange', syncFullscreen);
+    };
   }, []);
 
   const view = useMemo(
@@ -617,6 +658,18 @@ function Dashboard({ data, onLogout }) {
   const ordersOption = useMemo(() => makeLineOption({ title: '订单量', data: view.hourlyOrders, unit: 'count' }), [view.hourlyOrders]);
   const platformOption = useMemo(() => makePlatformOption(view.platformHourly, platformMetric), [view.platformHourly, platformMetric]);
   const mapOption = useMemo(() => makeMapOption(view.countryStats, mapMetric), [view.countryStats, mapMetric]);
+  const toggleFullscreen = async () => {
+    if (!fullscreenEnabled) return;
+    try {
+      if (isFullscreenActive()) {
+        await exitFullscreen();
+      } else {
+        await enterFullscreen();
+      }
+    } catch (error) {
+      console.error('Fullscreen toggle failed.', error);
+    }
+  };
 
   return (
     <main className="screen-wrap">
@@ -630,7 +683,12 @@ function Dashboard({ data, onLogout }) {
             <div className="kpi-item"><span>订单量</span><strong><AnimatedKpi value={view.totalOrders} type="count" /></strong></div>
             <div className="kpi-item"><span>销售额($)</span><strong><AnimatedKpi value={view.totalSales} type="money" /></strong></div>
           </div>
-          <button className="logout-button" type="button" onClick={onLogout}>退出</button>
+          <div className="header-actions">
+            <button className="header-action-button" type="button" onClick={toggleFullscreen} disabled={!fullscreenEnabled}>
+              {isFullscreen ? '退出全屏' : '全屏'}
+            </button>
+            <button className="header-action-button logout-button" type="button" onClick={onLogout}>退出</button>
+          </div>
         </header>
 
         <Panel title="热销店铺TOP 10" className="stores-panel" actions={<MetricTabs value={storeSort} onChange={setStoreSort} items={[{ value: 'orders', label: '按订单量' }, { value: 'sales', label: '按销售额' }]} />}>

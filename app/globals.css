@@ -199,17 +199,26 @@ button { cursor: pointer; }
 .kpi-item { display: flex; align-items: baseline; gap: 16px; white-space: nowrap; }
 .kpi-item span { color: #a7c4cd; font-size: 20px; }
 .kpi-item strong { color: #eefcff; font-size: 42px; letter-spacing: 5px; font-weight: 700; text-shadow: 0 0 20px rgba(255, 255, 255, 0.25); }
-.logout-button {
+.header-actions {
   position: absolute;
   right: 82px;
   top: 22px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.header-action-button {
   color: rgba(207, 241, 247, 0.72);
   border: 1px solid rgba(79, 234, 255, 0.16);
   background: rgba(3, 22, 32, 0.42);
   padding: 6px 18px;
   font-size: 15px;
 }
-.logout-button:hover { color: #fff; border-color: rgba(79, 234, 255, 0.42); }
+.header-action-button:hover:not(:disabled) { color: #fff; border-color: rgba(79, 234, 255, 0.42); }
+.header-action-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
 
 .panel {
   position: absolute;
@@ -251,6 +260,34 @@ button { cursor: pointer; }
 
 .stores-panel { left: 18px; top: 124px; width: 490px; height: 280px; }
 .products-panel { left: 18px; top: 420px; width: 490px; height: 530px; }
+.stores-panel .panel-body,
+.products-panel .panel-body {
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 6px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(69, 240, 231, 0.42) rgba(7, 24, 34, 0.42);
+}
+.stores-panel .panel-body::-webkit-scrollbar,
+.products-panel .panel-body::-webkit-scrollbar {
+  width: 8px;
+}
+.stores-panel .panel-body::-webkit-scrollbar-track,
+.products-panel .panel-body::-webkit-scrollbar-track {
+  background: rgba(7, 24, 34, 0.42);
+}
+.stores-panel .panel-body::-webkit-scrollbar-thumb,
+.products-panel .panel-body::-webkit-scrollbar-thumb {
+  background: rgba(69, 240, 231, 0.42);
+  border-radius: 999px;
+}
+.stores-panel .data-table thead th,
+.products-panel .data-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: rgba(26, 90, 108, 0.96);
+}
 .chart-panel { right: 18px; width: 510px; height: 280px; }
 .chart-one { top: 124px; }
 .chart-two { top: 420px; }
