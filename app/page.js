@@ -605,7 +605,6 @@ function Dashboard({ data, onLogout }) {
   const [productSort, setProductSort] = useState('quantity');
   const [mapMetric, setMapMetric] = useState('sales');
   const [platformMetric, setPlatformMetric] = useState('sales');
-  const [orderScrollIndex, setOrderScrollIndex] = useState(0);
   const [fullscreenEnabled, setFullscreenEnabled] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
 
@@ -636,23 +635,6 @@ function Dashboard({ data, onLogout }) {
     () => buildViewModel(data, nowSeconds, storeSort, productSort, mapMetric, platformMetric),
     [data, nowSeconds, storeSort, productSort, mapMetric, platformMetric]
   );
-
-  useEffect(() => {
-    setOrderScrollIndex(0);
-  }, [view.latestOrders.length]);
-
-  useEffect(() => {
-    if (view.latestOrders.length <= 5) return undefined;
-    const timer = setInterval(() => {
-      setOrderScrollIndex((index) => (index + 1) % view.latestOrders.length);
-    }, 3200);
-    return () => clearInterval(timer);
-  }, [view.latestOrders.length]);
-
-  const visibleOrders = useMemo(() => {
-    if (view.latestOrders.length <= 5) return view.latestOrders.slice(0, 5);
-    return Array.from({ length: 5 }, (_, index) => view.latestOrders[(orderScrollIndex + index) % view.latestOrders.length]);
-  }, [view.latestOrders, orderScrollIndex]);
 
   const gmvOption = useMemo(() => makeLineOption({ title: 'GMV', data: view.hourlySales, unit: 'money' }), [view.hourlySales]);
   const ordersOption = useMemo(() => makeLineOption({ title: '订单量', data: view.hourlyOrders, unit: 'count' }), [view.hourlyOrders]);
@@ -734,7 +716,7 @@ function Dashboard({ data, onLogout }) {
           <table className="data-table realtime-table">
             <thead><tr><th>类型</th><th>平台</th><th>店铺名称</th><th>站点</th><th>客户名称</th><th>下单金额($)</th><th>下单时间</th></tr></thead>
             <tbody>
-              {visibleOrders.map((order) => (
+              {view.latestOrders.map((order) => (
                 <tr key={order.order_id} className="live-row">
                   <td>{order.business_type || '自营'}</td>
                   <td>{order.platform}</td>

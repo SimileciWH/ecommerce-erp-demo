@@ -7,7 +7,7 @@ const cssSource = fs.readFileSync(cssPath, 'utf8');
 
 assert.match(
   cssSource,
-  /\.stores-panel\s+\.panel-body\s*,\s*\.products-panel\s+\.panel-body\s*\{[\s\S]*overflow-y:\s*auto;/,
+  /\.stores-panel\s+\.panel-body\s*,[\s\S]*\.products-panel\s+\.panel-body[\s\S]*\{[\s\S]*overflow-y:\s*auto;/,
   'Expected Top 10 panel bodies to support vertical scrolling.'
 );
 

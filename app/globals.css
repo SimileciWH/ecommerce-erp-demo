@@ -258,10 +258,11 @@ button { cursor: pointer; }
 }
 .metric-tabs button.active { color: #fff; background: rgba(56, 198, 220, 0.42); box-shadow: inset 0 -2px 0 var(--cyan); }
 
-.stores-panel { left: 18px; top: 124px; width: 490px; height: 280px; }
-.products-panel { left: 18px; top: 420px; width: 490px; height: 530px; }
+.stores-panel { left: 18px; top: 124px; width: 490px; height: 374px; }
+.products-panel { left: 18px; top: 514px; bottom: 36px; width: 490px; }
 .stores-panel .panel-body,
-.products-panel .panel-body {
+.products-panel .panel-body,
+.realtime-panel .panel-body {
   overflow-y: auto;
   overflow-x: hidden;
   padding-right: 6px;
@@ -269,20 +270,24 @@ button { cursor: pointer; }
   scrollbar-color: rgba(69, 240, 231, 0.42) rgba(7, 24, 34, 0.42);
 }
 .stores-panel .panel-body::-webkit-scrollbar,
-.products-panel .panel-body::-webkit-scrollbar {
+.products-panel .panel-body::-webkit-scrollbar,
+.realtime-panel .panel-body::-webkit-scrollbar {
   width: 8px;
 }
 .stores-panel .panel-body::-webkit-scrollbar-track,
-.products-panel .panel-body::-webkit-scrollbar-track {
+.products-panel .panel-body::-webkit-scrollbar-track,
+.realtime-panel .panel-body::-webkit-scrollbar-track {
   background: rgba(7, 24, 34, 0.42);
 }
 .stores-panel .panel-body::-webkit-scrollbar-thumb,
-.products-panel .panel-body::-webkit-scrollbar-thumb {
+.products-panel .panel-body::-webkit-scrollbar-thumb,
+.realtime-panel .panel-body::-webkit-scrollbar-thumb {
   background: rgba(69, 240, 231, 0.42);
   border-radius: 999px;
 }
 .stores-panel .data-table thead th,
-.products-panel .data-table thead th {
+.products-panel .data-table thead th,
+.realtime-panel .data-table thead th {
   position: sticky;
   top: 0;
   z-index: 1;
@@ -291,7 +296,7 @@ button { cursor: pointer; }
 .chart-panel { right: 18px; width: 510px; height: 280px; }
 .chart-one { top: 124px; }
 .chart-two { top: 420px; }
-.chart-three { top: 716px; height: 300px; }
+.chart-three { top: 716px; bottom: 36px; height: auto; }
 .realtime-panel { left: 532px; bottom: 36px; width: 850px; height: 260px; }
 
 .map-zone {

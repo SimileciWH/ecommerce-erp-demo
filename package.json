@@ -9,7 +9,8 @@
     "validate": "node scripts/validate-data.mjs",
     "test:root-layout": "node scripts/test-root-layout-hydration.mjs",
     "test:top10-scroll": "node scripts/test-top10-scroll.mjs",
-    "test:fullscreen-toggle": "node scripts/test-fullscreen-toggle.mjs"
+    "test:fullscreen-toggle": "node scripts/test-fullscreen-toggle.mjs",
+    "test:dashboard-panels": "node scripts/test-dashboard-panels.mjs"
   },
   "dependencies": {
     "echarts": "^6.0.0",
