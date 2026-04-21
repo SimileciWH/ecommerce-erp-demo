@@ -1,0 +1,382 @@
+﻿order_item_id,order_id,sku,product_name_en,product_name_cn,product_image,category,quantity,unit_price_usd,item_sales_amount_usd,store_id,store_name,platform,country_code,country_name_cn
+DEMO2025092900001-1,DEMO2025092900001,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,143.64,143.64,ST005,Xing Fan Go,mercado,VN,越南
+DEMO2025092900002-1,DEMO2025092900002,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,212.33,212.33,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900003-1,DEMO2025092900003,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,245.55,245.55,ST004,Outdoor equipment shop,temu,US,美国
+DEMO2025092900004-1,DEMO2025092900004,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,2,140.54,281.08,ST005,Xing Fan Go,mercado,FR,法国
+DEMO2025092900004-2,DEMO2025092900004,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,148.34,148.34,ST005,Xing Fan Go,mercado,FR,法国
+DEMO2025092900005-1,DEMO2025092900005,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,200.57,200.57,ST001,YHR C,tiktok,RU,俄罗斯
+DEMO2025092900006-1,DEMO2025092900006,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,140.23,140.23,ST001,YHR C,temu,RU,俄罗斯
+DEMO2025092900007-1,DEMO2025092900007,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,244.22,244.22,ST007,YIHRA,ozon,FR,法国
+DEMO2025092900008-1,DEMO2025092900008,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,135.27,135.27,ST003,Coco Sports and Outdoors,temu,FR,法国
+DEMO2025092900008-2,DEMO2025092900008,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,205.12,205.12,ST003,Coco Sports and Outdoors,temu,FR,法国
+DEMO2025092900009-1,DEMO2025092900009,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,238.1,238.1,ST005,Xing Fan Go,AliExpress,GB,英国
+DEMO2025092900010-1,DEMO2025092900010,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,177.2,177.2,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900011-1,DEMO2025092900011,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,141.41,141.41,ST002,Camplab Outdoor Peak,ozon,RU,俄罗斯
+DEMO2025092900012-1,DEMO2025092900012,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,186.73,186.73,ST006,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900013-1,DEMO2025092900013,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,176.7,176.7,ST001,YHR C,tiktok,US,美国
+DEMO2025092900014-1,DEMO2025092900014,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,198.05,198.05,ST003,Coco Sports and Outdoors,temu,GB,英国
+DEMO2025092900015-1,DEMO2025092900015,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,172.54,172.54,ST002,Camplab Outdoor Peak,temu,FR,法国
+DEMO2025092900016-1,DEMO2025092900016,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,128.72,128.72,ST005,Xing Fan Go,tiktok,US,美国
+DEMO2025092900017-1,DEMO2025092900017,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,192.36,192.36,ST005,Xing Fan Go,ozon,RU,俄罗斯
+DEMO2025092900018-1,DEMO2025092900018,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,192.19,192.19,ST004,Outdoor equipment shop,tiktok,US,美国
+DEMO2025092900019-1,DEMO2025092900019,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,209.66,209.66,ST007,YIHRA,temu,RU,俄罗斯
+DEMO2025092900020-1,DEMO2025092900020,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,222.0,222.0,ST005,Xing Fan Go,tiktok,US,美国
+DEMO2025092900021-1,DEMO2025092900021,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.38,163.38,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900022-1,DEMO2025092900022,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,229.9,229.9,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900023-1,DEMO2025092900023,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,212.87,212.87,ST005,Xing Fan Go,tiktok,RU,俄罗斯
+DEMO2025092900024-1,DEMO2025092900024,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,157.95,157.95,ST002,Camplab Outdoor Peak,temu,VN,越南
+DEMO2025092900025-1,DEMO2025092900025,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,173.3,173.3,ST003,Coco Sports and Outdoors,tiktok,PH,菲律宾
+DEMO2025092900026-1,DEMO2025092900026,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,154.15,154.15,ST007,YIHRA,tiktok,FR,法国
+DEMO2025092900027-1,DEMO2025092900027,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,141.44,141.44,ST001,YHR C,AliExpress,RU,俄罗斯
+DEMO2025092900028-1,DEMO2025092900028,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,125.88,125.88,ST002,Camplab Outdoor Peak,temu,VN,越南
+DEMO2025092900029-1,DEMO2025092900029,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,254.01,254.01,ST003,Coco Sports and Outdoors,tiktok,PH,菲律宾
+DEMO2025092900030-1,DEMO2025092900030,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,216.11,216.11,ST003,Coco Sports and Outdoors,temu,US,美国
+DEMO2025092900031-1,DEMO2025092900031,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,194.4,194.4,ST003,Coco Sports and Outdoors,AliExpress,FR,法国
+DEMO2025092900032-1,DEMO2025092900032,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,148.65,148.65,ST006,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900033-1,DEMO2025092900033,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST006,Xing Fan Go,temu,US,美国
+DEMO2025092900034-1,DEMO2025092900034,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,249.12,249.12,ST006,Xing Fan Go,ozon,RU,俄罗斯
+DEMO2025092900035-1,DEMO2025092900035,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,175.04,175.04,ST004,Outdoor equipment shop,ozon,RU,俄罗斯
+DEMO2025092900036-1,DEMO2025092900036,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,251.34,251.34,ST003,Coco Sports and Outdoors,tiktok,GB,英国
+DEMO2025092900037-1,DEMO2025092900037,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,241.77,241.77,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900037-2,DEMO2025092900037,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,221.66,221.66,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900038-1,DEMO2025092900038,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,175.43,175.43,ST003,Coco Sports and Outdoors,tiktok,GB,英国
+DEMO2025092900039-1,DEMO2025092900039,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,2,162.84,325.68,ST004,Outdoor equipment shop,tiktok,RU,俄罗斯
+DEMO2025092900039-2,DEMO2025092900039,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,204.44,204.44,ST004,Outdoor equipment shop,tiktok,RU,俄罗斯
+DEMO2025092900040-1,DEMO2025092900040,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,204.02,204.02,ST001,YHR C,ozon,RU,俄罗斯
+DEMO2025092900041-1,DEMO2025092900041,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,146.87,146.87,ST001,YHR C,temu,US,美国
+DEMO2025092900042-1,DEMO2025092900042,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,221.89,221.89,ST004,Outdoor equipment shop,temu,FR,法国
+DEMO2025092900043-1,DEMO2025092900043,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,149.16,149.16,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900044-1,DEMO2025092900044,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,2,150.74,301.48,ST002,Camplab Outdoor Peak,temu,GB,英国
+DEMO2025092900045-1,DEMO2025092900045,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,192.11,192.11,ST004,Outdoor equipment shop,mercado,GB,英国
+DEMO2025092900046-1,DEMO2025092900046,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,137.47,137.47,ST007,YIHRA,tiktok,TH,泰国
+DEMO2025092900047-1,DEMO2025092900047,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,190.05,190.05,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900048-1,DEMO2025092900048,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,217.26,217.26,ST003,Coco Sports and Outdoors,ozon,RU,俄罗斯
+DEMO2025092900049-1,DEMO2025092900049,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,228.04,228.04,ST006,Xing Fan Go,tiktok,FR,法国
+DEMO2025092900049-2,DEMO2025092900049,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,132.74,132.74,ST006,Xing Fan Go,tiktok,FR,法国
+DEMO2025092900050-1,DEMO2025092900050,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,165.85,165.85,ST006,Xing Fan Go,mercado,US,美国
+DEMO2025092900051-1,DEMO2025092900051,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,252.33,252.33,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900052-1,DEMO2025092900052,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,157.48,157.48,ST001,YHR C,AliExpress,US,美国
+DEMO2025092900053-1,DEMO2025092900053,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,203.58,203.58,ST006,Xing Fan Go,temu,GB,英国
+DEMO2025092900054-1,DEMO2025092900054,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,238.3,238.3,ST005,Xing Fan Go,temu,FR,法国
+DEMO2025092900055-1,DEMO2025092900055,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,244.99,244.99,ST001,YHR C,AliExpress,US,美国
+DEMO2025092900056-1,DEMO2025092900056,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,246.47,246.47,ST003,Coco Sports and Outdoors,mercado,GB,英国
+DEMO2025092900057-1,DEMO2025092900057,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,146.26,146.26,ST002,Camplab Outdoor Peak,tiktok,FR,法国
+DEMO2025092900058-1,DEMO2025092900058,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,143.77,143.77,ST004,Outdoor equipment shop,AliExpress,FR,法国
+DEMO2025092900058-2,DEMO2025092900058,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,178.97,178.97,ST004,Outdoor equipment shop,AliExpress,FR,法国
+DEMO2025092900059-1,DEMO2025092900059,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,181.55,181.55,ST006,Xing Fan Go,temu,GB,英国
+DEMO2025092900060-1,DEMO2025092900060,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,143.47,143.47,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900061-1,DEMO2025092900061,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST003,Coco Sports and Outdoors,ozon,RU,俄罗斯
+DEMO2025092900062-1,DEMO2025092900062,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,2,178.21,356.42,ST004,Outdoor equipment shop,mercado,GB,英国
+DEMO2025092900063-1,DEMO2025092900063,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,189.21,189.21,ST003,Coco Sports and Outdoors,tiktok,RU,俄罗斯
+DEMO2025092900064-1,DEMO2025092900064,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,226.38,226.38,ST004,Outdoor equipment shop,AliExpress,GB,英国
+DEMO2025092900065-1,DEMO2025092900065,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,227.24,227.24,ST003,Coco Sports and Outdoors,ozon,GB,英国
+DEMO2025092900066-1,DEMO2025092900066,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,251.67,251.67,ST006,Xing Fan Go,temu,VN,越南
+DEMO2025092900067-1,DEMO2025092900067,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,253.88,253.88,ST005,Xing Fan Go,AliExpress,FR,法国
+DEMO2025092900068-1,DEMO2025092900068,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,143.97,143.97,ST007,YIHRA,temu,US,美国
+DEMO2025092900069-1,DEMO2025092900069,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,142.33,142.33,ST007,YIHRA,AliExpress,GB,英国
+DEMO2025092900070-1,DEMO2025092900070,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,191.22,191.22,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900071-1,DEMO2025092900071,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,207.06,207.06,ST002,Camplab Outdoor Peak,AliExpress,RU,俄罗斯
+DEMO2025092900072-1,DEMO2025092900072,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,2,190.77,381.54,ST007,YIHRA,mercado,US,美国
+DEMO2025092900072-2,DEMO2025092900072,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,164.08,164.08,ST007,YIHRA,mercado,US,美国
+DEMO2025092900073-1,DEMO2025092900073,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,201.72,201.72,ST007,YIHRA,temu,US,美国
+DEMO2025092900074-1,DEMO2025092900074,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,173.56,173.56,ST007,YIHRA,AliExpress,GB,英国
+DEMO2025092900074-2,DEMO2025092900074,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,145.96,145.96,ST007,YIHRA,AliExpress,GB,英国
+DEMO2025092900075-1,DEMO2025092900075,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,188.93,188.93,ST004,Outdoor equipment shop,temu,US,美国
+DEMO2025092900076-1,DEMO2025092900076,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,238.92,238.92,ST003,Coco Sports and Outdoors,mercado,US,美国
+DEMO2025092900077-1,DEMO2025092900077,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,148.0,148.0,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900078-1,DEMO2025092900078,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,161.45,161.45,ST005,Xing Fan Go,tiktok,US,美国
+DEMO2025092900079-1,DEMO2025092900079,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,203.05,203.05,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900080-1,DEMO2025092900080,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,179.76,179.76,ST001,YHR C,temu,US,美国
+DEMO2025092900081-1,DEMO2025092900081,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,228.76,228.76,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900082-1,DEMO2025092900082,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,213.89,213.89,ST003,Coco Sports and Outdoors,mercado,US,美国
+DEMO2025092900083-1,DEMO2025092900083,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,134.43,134.43,ST002,Camplab Outdoor Peak,mercado,US,美国
+DEMO2025092900084-1,DEMO2025092900084,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,125.76,125.76,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900085-1,DEMO2025092900085,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,138.38,138.38,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900086-1,DEMO2025092900086,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,229.45,229.45,ST003,Coco Sports and Outdoors,AliExpress,US,美国
+DEMO2025092900087-1,DEMO2025092900087,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,192.49,192.49,ST001,YHR C,tiktok,US,美国
+DEMO2025092900088-1,DEMO2025092900088,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,232.04,232.04,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900089-1,DEMO2025092900089,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,186.86,186.86,ST005,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900090-1,DEMO2025092900090,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,251.0,251.0,ST007,YIHRA,AliExpress,US,美国
+DEMO2025092900091-1,DEMO2025092900091,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,166.28,166.28,ST002,Camplab Outdoor Peak,tiktok,MY,马来西亚
+DEMO2025092900092-1,DEMO2025092900092,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,225.99,225.99,ST004,Outdoor equipment shop,tiktok,US,美国
+DEMO2025092900093-1,DEMO2025092900093,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,167.97,167.97,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900094-1,DEMO2025092900094,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,246.0,246.0,ST001,YHR C,temu,US,美国
+DEMO2025092900095-1,DEMO2025092900095,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,154.59,154.59,ST007,YIHRA,temu,US,美国
+DEMO2025092900096-1,DEMO2025092900096,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,160.89,160.89,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900096-2,DEMO2025092900096,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,142.33,142.33,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900097-1,DEMO2025092900097,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,172.59,172.59,ST002,Camplab Outdoor Peak,mercado,US,美国
+DEMO2025092900098-1,DEMO2025092900098,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,147.7,147.7,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900099-1,DEMO2025092900099,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,239.31,239.31,ST004,Outdoor equipment shop,tiktok,US,美国
+DEMO2025092900099-2,DEMO2025092900099,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,157.58,157.58,ST004,Outdoor equipment shop,tiktok,US,美国
+DEMO2025092900100-1,DEMO2025092900100,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,228.43,228.43,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900101-1,DEMO2025092900101,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,139.42,139.42,ST001,YHR C,tiktok,MY,马来西亚
+DEMO2025092900101-2,DEMO2025092900101,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,248.33,248.33,ST001,YHR C,tiktok,MY,马来西亚
+DEMO2025092900102-1,DEMO2025092900102,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,2,181.68,363.36,ST002,Camplab Outdoor Peak,temu,MY,马来西亚
+DEMO2025092900103-1,DEMO2025092900103,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,186.42,186.42,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900104-1,DEMO2025092900104,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,189.99,189.99,ST002,Camplab Outdoor Peak,AliExpress,RU,俄罗斯
+DEMO2025092900105-1,DEMO2025092900105,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,185.93,185.93,ST007,YIHRA,temu,US,美国
+DEMO2025092900106-1,DEMO2025092900106,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,255.44,255.44,ST003,Coco Sports and Outdoors,temu,US,美国
+DEMO2025092900107-1,DEMO2025092900107,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,209.6,209.6,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900108-1,DEMO2025092900108,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,130.8,130.8,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900109-1,DEMO2025092900109,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,131.73,131.73,ST006,Xing Fan Go,temu,US,美国
+DEMO2025092900110-1,DEMO2025092900110,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,190.31,190.31,ST003,Coco Sports and Outdoors,tiktok,PH,菲律宾
+DEMO2025092900111-1,DEMO2025092900111,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,2,146.87,293.74,ST004,Outdoor equipment shop,temu,GB,英国
+DEMO2025092900112-1,DEMO2025092900112,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,175.56,175.56,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900113-1,DEMO2025092900113,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,220.89,220.89,ST003,Coco Sports and Outdoors,AliExpress,GB,英国
+DEMO2025092900114-1,DEMO2025092900114,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,195.7,195.7,ST007,YIHRA,temu,US,美国
+DEMO2025092900115-1,DEMO2025092900115,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,203.74,203.74,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900115-2,DEMO2025092900115,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,157.01,157.01,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900116-1,DEMO2025092900116,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,180.24,180.24,ST007,YIHRA,temu,US,美国
+DEMO2025092900117-1,DEMO2025092900117,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,155.17,155.17,ST003,Coco Sports and Outdoors,AliExpress,MY,马来西亚
+DEMO2025092900118-1,DEMO2025092900118,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,162.61,162.61,ST003,Coco Sports and Outdoors,AliExpress,US,美国
+DEMO2025092900119-1,DEMO2025092900119,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,177.74,177.74,ST002,Camplab Outdoor Peak,tiktok,PH,菲律宾
+DEMO2025092900120-1,DEMO2025092900120,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900121-1,DEMO2025092900121,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,232.88,232.88,ST004,Outdoor equipment shop,temu,MY,马来西亚
+DEMO2025092900122-1,DEMO2025092900122,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,207.66,207.66,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900123-1,DEMO2025092900123,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,255.06,255.06,ST002,Camplab Outdoor Peak,temu,PH,菲律宾
+DEMO2025092900124-1,DEMO2025092900124,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,182.65,182.65,ST002,Camplab Outdoor Peak,AliExpress,MY,马来西亚
+DEMO2025092900125-1,DEMO2025092900125,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,220.24,220.24,ST005,Xing Fan Go,AliExpress,TH,泰国
+DEMO2025092900126-1,DEMO2025092900126,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,172.49,172.49,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900127-1,DEMO2025092900127,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST007,YIHRA,mercado,US,美国
+DEMO2025092900128-1,DEMO2025092900128,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,241.03,241.03,ST002,Camplab Outdoor Peak,mercado,TH,泰国
+DEMO2025092900129-1,DEMO2025092900129,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,246.74,246.74,ST001,YHR C,tiktok,US,美国
+DEMO2025092900130-1,DEMO2025092900130,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,134.89,134.89,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900131-1,DEMO2025092900131,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,209.26,209.26,ST007,YIHRA,AliExpress,VN,越南
+DEMO2025092900131-2,DEMO2025092900131,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.69,140.69,ST007,YIHRA,AliExpress,VN,越南
+DEMO2025092900132-1,DEMO2025092900132,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,148.8,148.8,ST003,Coco Sports and Outdoors,temu,US,美国
+DEMO2025092900133-1,DEMO2025092900133,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,134.17,134.17,ST005,Xing Fan Go,tiktok,RU,俄罗斯
+DEMO2025092900134-1,DEMO2025092900134,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,134.5,134.5,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900134-2,DEMO2025092900134,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,2,203.31,406.62,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900135-1,DEMO2025092900135,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,218.41,218.41,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900136-1,DEMO2025092900136,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,255.15,255.15,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900137-1,DEMO2025092900137,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,138.84,138.84,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900138-1,DEMO2025092900138,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,2,169.13,338.26,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900138-2,DEMO2025092900138,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,255.97,255.97,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900139-1,DEMO2025092900139,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,182.38,182.38,ST003,Coco Sports and Outdoors,ozon,US,美国
+DEMO2025092900140-1,DEMO2025092900140,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,146.79,146.79,ST001,YHR C,mercado,US,美国
+DEMO2025092900141-1,DEMO2025092900141,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,224.78,224.78,ST002,Camplab Outdoor Peak,mercado,MY,马来西亚
+DEMO2025092900142-1,DEMO2025092900142,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,163.29,163.29,ST005,Xing Fan Go,temu,VN,越南
+DEMO2025092900143-1,DEMO2025092900143,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,244.06,244.06,ST004,Outdoor equipment shop,temu,US,美国
+DEMO2025092900144-1,DEMO2025092900144,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,212.81,212.81,ST004,Outdoor equipment shop,temu,US,美国
+DEMO2025092900145-1,DEMO2025092900145,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,228.28,228.28,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900145-2,DEMO2025092900145,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,247.49,247.49,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900146-1,DEMO2025092900146,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,153.37,153.37,ST001,YHR C,ozon,RU,俄罗斯
+DEMO2025092900147-1,DEMO2025092900147,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,250.97,250.97,ST005,Xing Fan Go,tiktok,MY,马来西亚
+DEMO2025092900148-1,DEMO2025092900148,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,205.45,205.45,ST003,Coco Sports and Outdoors,temu,US,美国
+DEMO2025092900149-1,DEMO2025092900149,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,141.45,141.45,ST003,Coco Sports and Outdoors,mercado,PH,菲律宾
+DEMO2025092900150-1,DEMO2025092900150,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,173.87,173.87,ST002,Camplab Outdoor Peak,AliExpress,RU,俄罗斯
+DEMO2025092900151-1,DEMO2025092900151,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,250.08,250.08,ST005,Xing Fan Go,temu,US,美国
+DEMO2025092900152-1,DEMO2025092900152,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,187.24,187.24,ST005,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900153-1,DEMO2025092900153,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,156.98,156.98,ST003,Coco Sports and Outdoors,temu,MY,马来西亚
+DEMO2025092900154-1,DEMO2025092900154,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,241.77,241.77,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900155-1,DEMO2025092900155,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,246.27,246.27,ST007,YIHRA,tiktok,PH,菲律宾
+DEMO2025092900155-2,DEMO2025092900155,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,163.38,163.38,ST007,YIHRA,tiktok,PH,菲律宾
+DEMO2025092900156-1,DEMO2025092900156,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,129.21,129.21,ST002,Camplab Outdoor Peak,temu,PH,菲律宾
+DEMO2025092900156-2,DEMO2025092900156,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,237.57,237.57,ST002,Camplab Outdoor Peak,temu,PH,菲律宾
+DEMO2025092900157-1,DEMO2025092900157,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,203.44,203.44,ST003,Coco Sports and Outdoors,tiktok,VN,越南
+DEMO2025092900157-2,DEMO2025092900157,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,253.36,253.36,ST003,Coco Sports and Outdoors,tiktok,VN,越南
+DEMO2025092900158-1,DEMO2025092900158,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.54,163.54,ST003,Coco Sports and Outdoors,temu,PH,菲律宾
+DEMO2025092900159-1,DEMO2025092900159,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,253.74,253.74,ST003,Coco Sports and Outdoors,temu,PH,菲律宾
+DEMO2025092900160-1,DEMO2025092900160,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,164.4,164.4,ST003,Coco Sports and Outdoors,AliExpress,TH,泰国
+DEMO2025092900161-1,DEMO2025092900161,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,244.89,244.89,ST002,Camplab Outdoor Peak,temu,FR,法国
+DEMO2025092900161-2,DEMO2025092900161,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,182.28,182.28,ST002,Camplab Outdoor Peak,temu,FR,法国
+DEMO2025092900162-1,DEMO2025092900162,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,2,163.83,327.66,ST005,Xing Fan Go,temu,MY,马来西亚
+DEMO2025092900163-1,DEMO2025092900163,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,208.88,208.88,ST002,Camplab Outdoor Peak,tiktok,PH,菲律宾
+DEMO2025092900164-1,DEMO2025092900164,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,219.18,219.18,ST004,Outdoor equipment shop,ozon,TH,泰国
+DEMO2025092900165-1,DEMO2025092900165,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,131.58,131.58,ST006,Xing Fan Go,ozon,RU,俄罗斯
+DEMO2025092900166-1,DEMO2025092900166,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,218.32,218.32,ST003,Coco Sports and Outdoors,tiktok,VN,越南
+DEMO2025092900167-1,DEMO2025092900167,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,162.93,162.93,ST003,Coco Sports and Outdoors,ozon,RU,俄罗斯
+DEMO2025092900168-1,DEMO2025092900168,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,159.9,159.9,ST005,Xing Fan Go,tiktok,RU,俄罗斯
+DEMO2025092900169-1,DEMO2025092900169,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,2,163.46,326.92,ST003,Coco Sports and Outdoors,temu,TH,泰国
+DEMO2025092900170-1,DEMO2025092900170,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,156.48,156.48,ST003,Coco Sports and Outdoors,tiktok,US,美国
+DEMO2025092900171-1,DEMO2025092900171,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,146.0,146.0,ST003,Coco Sports and Outdoors,mercado,GB,英国
+DEMO2025092900172-1,DEMO2025092900172,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,146.45,146.45,ST005,Xing Fan Go,temu,TH,泰国
+DEMO2025092900173-1,DEMO2025092900173,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,200.29,200.29,ST002,Camplab Outdoor Peak,ozon,RU,俄罗斯
+DEMO2025092900174-1,DEMO2025092900174,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST002,Camplab Outdoor Peak,temu,VN,越南
+DEMO2025092900175-1,DEMO2025092900175,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,2,175.56,351.12,ST005,Xing Fan Go,temu,VN,越南
+DEMO2025092900176-1,DEMO2025092900176,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,203.47,203.47,ST003,Coco Sports and Outdoors,tiktok,GB,英国
+DEMO2025092900177-1,DEMO2025092900177,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,211.96,211.96,ST005,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900178-1,DEMO2025092900178,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.87,163.87,ST005,Xing Fan Go,tiktok,FR,法国
+DEMO2025092900179-1,DEMO2025092900179,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,176.41,176.41,ST005,Xing Fan Go,AliExpress,FR,法国
+DEMO2025092900180-1,DEMO2025092900180,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,2,125.46,250.92,ST006,Xing Fan Go,ozon,RU,俄罗斯
+DEMO2025092900181-1,DEMO2025092900181,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,169.59,169.59,ST005,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900182-1,DEMO2025092900182,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,148.01,148.01,ST001,YHR C,tiktok,VN,越南
+DEMO2025092900183-1,DEMO2025092900183,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,213.22,213.22,ST001,YHR C,mercado,US,美国
+DEMO2025092900184-1,DEMO2025092900184,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,172.94,172.94,ST002,Camplab Outdoor Peak,temu,FR,法国
+DEMO2025092900185-1,DEMO2025092900185,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,166.42,166.42,ST006,Xing Fan Go,tiktok,MY,马来西亚
+DEMO2025092900186-1,DEMO2025092900186,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,2,199.62,399.24,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900187-1,DEMO2025092900187,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST002,Camplab Outdoor Peak,temu,TH,泰国
+DEMO2025092900188-1,DEMO2025092900188,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,171.03,171.03,ST001,YHR C,temu,PH,菲律宾
+DEMO2025092900189-1,DEMO2025092900189,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST002,Camplab Outdoor Peak,tiktok,PH,菲律宾
+DEMO2025092900190-1,DEMO2025092900190,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,174.64,174.64,ST003,Coco Sports and Outdoors,tiktok,VN,越南
+DEMO2025092900190-2,DEMO2025092900190,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,248.18,248.18,ST003,Coco Sports and Outdoors,tiktok,VN,越南
+DEMO2025092900191-1,DEMO2025092900191,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,183.5,183.5,ST005,Xing Fan Go,tiktok,MY,马来西亚
+DEMO2025092900192-1,DEMO2025092900192,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,244.82,244.82,ST005,Xing Fan Go,AliExpress,FR,法国
+DEMO2025092900193-1,DEMO2025092900193,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,131.18,131.18,ST007,YIHRA,mercado,MY,马来西亚
+DEMO2025092900194-1,DEMO2025092900194,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,240.68,240.68,ST006,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900195-1,DEMO2025092900195,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,171.34,171.34,ST007,YIHRA,ozon,FR,法国
+DEMO2025092900196-1,DEMO2025092900196,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,141.97,141.97,ST005,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900196-2,DEMO2025092900196,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,183.19,183.19,ST005,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900197-1,DEMO2025092900197,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,253.2,253.2,ST002,Camplab Outdoor Peak,mercado,VN,越南
+DEMO2025092900198-1,DEMO2025092900198,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,128.33,128.33,ST001,YHR C,ozon,RU,俄罗斯
+DEMO2025092900199-1,DEMO2025092900199,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,190.41,190.41,ST007,YIHRA,tiktok,FR,法国
+DEMO2025092900200-1,DEMO2025092900200,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.67,163.67,ST007,YIHRA,tiktok,MY,马来西亚
+DEMO2025092900201-1,DEMO2025092900201,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,174.21,174.21,ST002,Camplab Outdoor Peak,tiktok,FR,法国
+DEMO2025092900202-1,DEMO2025092900202,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,142.89,142.89,ST007,YIHRA,tiktok,GB,英国
+DEMO2025092900203-1,DEMO2025092900203,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,132.39,132.39,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900204-1,DEMO2025092900204,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,242.5,242.5,ST001,YHR C,mercado,US,美国
+DEMO2025092900205-1,DEMO2025092900205,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,232.35,232.35,ST004,Outdoor equipment shop,tiktok,FR,法国
+DEMO2025092900206-1,DEMO2025092900206,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,153.7,153.7,ST007,YIHRA,AliExpress,VN,越南
+DEMO2025092900207-1,DEMO2025092900207,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,226.85,226.85,ST002,Camplab Outdoor Peak,AliExpress,GB,英国
+DEMO2025092900208-1,DEMO2025092900208,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,2,137.15,274.3,ST006,Xing Fan Go,AliExpress,FR,法国
+DEMO2025092900209-1,DEMO2025092900209,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,212.89,212.89,ST005,Xing Fan Go,temu,FR,法国
+DEMO2025092900210-1,DEMO2025092900210,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,138.87,138.87,ST006,Xing Fan Go,tiktok,MY,马来西亚
+DEMO2025092900211-1,DEMO2025092900211,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,223.48,223.48,ST003,Coco Sports and Outdoors,AliExpress,FR,法国
+DEMO2025092900211-2,DEMO2025092900211,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,245.38,245.38,ST003,Coco Sports and Outdoors,AliExpress,FR,法国
+DEMO2025092900212-1,DEMO2025092900212,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,147.4,147.4,ST004,Outdoor equipment shop,AliExpress,FR,法国
+DEMO2025092900213-1,DEMO2025092900213,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,149.12,149.12,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900213-2,DEMO2025092900213,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,157.25,157.25,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900214-1,DEMO2025092900214,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,227.36,227.36,ST002,Camplab Outdoor Peak,tiktok,RU,俄罗斯
+DEMO2025092900215-1,DEMO2025092900215,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.39,140.39,ST007,YIHRA,ozon,FR,法国
+DEMO2025092900216-1,DEMO2025092900216,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,201.2,201.2,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900217-1,DEMO2025092900217,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.56,163.56,ST003,Coco Sports and Outdoors,ozon,RU,俄罗斯
+DEMO2025092900218-1,DEMO2025092900218,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,197.74,197.74,ST004,Outdoor equipment shop,tiktok,FR,法国
+DEMO2025092900218-2,DEMO2025092900218,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,154.14,154.14,ST004,Outdoor equipment shop,tiktok,FR,法国
+DEMO2025092900219-1,DEMO2025092900219,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,203.58,203.58,ST003,Coco Sports and Outdoors,AliExpress,RU,俄罗斯
+DEMO2025092900220-1,DEMO2025092900220,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,229.04,229.04,ST004,Outdoor equipment shop,tiktok,FR,法国
+DEMO2025092900221-1,DEMO2025092900221,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,132.72,132.72,ST007,YIHRA,tiktok,MY,马来西亚
+DEMO2025092900222-1,DEMO2025092900222,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,248.8,248.8,ST006,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900223-1,DEMO2025092900223,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,190.83,190.83,ST007,YIHRA,temu,GB,英国
+DEMO2025092900223-2,DEMO2025092900223,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,157.79,157.79,ST007,YIHRA,temu,GB,英国
+DEMO2025092900224-1,DEMO2025092900224,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,162.63,162.63,ST001,YHR C,ozon,RU,俄罗斯
+DEMO2025092900224-2,DEMO2025092900224,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,2,149.74,299.48,ST001,YHR C,ozon,RU,俄罗斯
+DEMO2025092900225-1,DEMO2025092900225,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,231.96,231.96,ST002,Camplab Outdoor Peak,AliExpress,MY,马来西亚
+DEMO2025092900226-1,DEMO2025092900226,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,226.29,226.29,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900227-1,DEMO2025092900227,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,143.5,143.5,ST001,YHR C,mercado,GB,英国
+DEMO2025092900228-1,DEMO2025092900228,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,179.79,179.79,ST007,YIHRA,AliExpress,FR,法国
+DEMO2025092900229-1,DEMO2025092900229,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,172.76,172.76,ST001,YHR C,AliExpress,TH,泰国
+DEMO2025092900230-1,DEMO2025092900230,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,179.88,179.88,ST003,Coco Sports and Outdoors,temu,FR,法国
+DEMO2025092900230-2,DEMO2025092900230,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,229.28,229.28,ST003,Coco Sports and Outdoors,temu,FR,法国
+DEMO2025092900231-1,DEMO2025092900231,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,145.31,145.31,ST007,YIHRA,ozon,RU,俄罗斯
+DEMO2025092900231-2,DEMO2025092900231,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,162.26,162.26,ST007,YIHRA,ozon,RU,俄罗斯
+DEMO2025092900232-1,DEMO2025092900232,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,183.72,183.72,ST004,Outdoor equipment shop,tiktok,PH,菲律宾
+DEMO2025092900232-2,DEMO2025092900232,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,142.58,142.58,ST004,Outdoor equipment shop,tiktok,PH,菲律宾
+DEMO2025092900233-1,DEMO2025092900233,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,145.57,145.57,ST002,Camplab Outdoor Peak,AliExpress,GB,英国
+DEMO2025092900234-1,DEMO2025092900234,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,227.16,227.16,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900235-1,DEMO2025092900235,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.18,140.18,ST004,Outdoor equipment shop,tiktok,PH,菲律宾
+DEMO2025092900236-1,DEMO2025092900236,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,138.19,138.19,ST005,Xing Fan Go,ozon,RU,俄罗斯
+DEMO2025092900237-1,DEMO2025092900237,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,144.09,144.09,ST001,YHR C,temu,FR,法国
+DEMO2025092900237-2,DEMO2025092900237,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,2,126.77,253.54,ST001,YHR C,temu,FR,法国
+DEMO2025092900238-1,DEMO2025092900238,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,138.81,138.81,ST003,Coco Sports and Outdoors,mercado,TH,泰国
+DEMO2025092900239-1,DEMO2025092900239,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,178.52,178.52,ST005,Xing Fan Go,mercado,FR,法国
+DEMO2025092900240-1,DEMO2025092900240,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,195.24,195.24,ST001,YHR C,temu,GB,英国
+DEMO2025092900241-1,DEMO2025092900241,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,231.81,231.81,ST005,Xing Fan Go,AliExpress,TH,泰国
+DEMO2025092900242-1,DEMO2025092900242,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,2,237.03,474.06,ST006,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900242-2,DEMO2025092900242,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,149.43,149.43,ST006,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900243-1,DEMO2025092900243,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,189.31,189.31,ST007,YIHRA,tiktok,MY,马来西亚
+DEMO2025092900244-1,DEMO2025092900244,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,141.9,141.9,ST001,YHR C,mercado,US,美国
+DEMO2025092900245-1,DEMO2025092900245,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,169.54,169.54,ST001,YHR C,mercado,GB,英国
+DEMO2025092900246-1,DEMO2025092900246,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,142.5,142.5,ST005,Xing Fan Go,mercado,US,美国
+DEMO2025092900247-1,DEMO2025092900247,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,144.38,144.38,ST002,Camplab Outdoor Peak,AliExpress,TH,泰国
+DEMO2025092900248-1,DEMO2025092900248,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,152.36,152.36,ST003,Coco Sports and Outdoors,AliExpress,TH,泰国
+DEMO2025092900249-1,DEMO2025092900249,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,210.45,210.45,ST001,YHR C,tiktok,PH,菲律宾
+DEMO2025092900250-1,DEMO2025092900250,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,238.13,238.13,ST003,Coco Sports and Outdoors,tiktok,PH,菲律宾
+DEMO2025092900250-2,DEMO2025092900250,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,139.07,139.07,ST003,Coco Sports and Outdoors,tiktok,PH,菲律宾
+DEMO2025092900251-1,DEMO2025092900251,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,229.46,229.46,ST001,YHR C,AliExpress,MY,马来西亚
+DEMO2025092900252-1,DEMO2025092900252,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,198.68,198.68,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900252-2,DEMO2025092900252,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,134.92,134.92,ST002,Camplab Outdoor Peak,temu,US,美国
+DEMO2025092900253-1,DEMO2025092900253,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,141.81,141.81,ST005,Xing Fan Go,AliExpress,GB,英国
+DEMO2025092900254-1,DEMO2025092900254,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,145.87,145.87,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900255-1,DEMO2025092900255,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,174.4,174.4,ST002,Camplab Outdoor Peak,AliExpress,TH,泰国
+DEMO2025092900256-1,DEMO2025092900256,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,142.28,142.28,ST002,Camplab Outdoor Peak,mercado,US,美国
+DEMO2025092900257-1,DEMO2025092900257,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,213.13,213.13,ST005,Xing Fan Go,ozon,GB,英国
+DEMO2025092900258-1,DEMO2025092900258,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,223.39,223.39,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900259-1,DEMO2025092900259,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,164.43,164.43,ST006,Xing Fan Go,AliExpress,MY,马来西亚
+DEMO2025092900260-1,DEMO2025092900260,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,147.52,147.52,ST007,YIHRA,AliExpress,GB,英国
+DEMO2025092900261-1,DEMO2025092900261,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,228.38,228.38,ST004,Outdoor equipment shop,AliExpress,PH,菲律宾
+DEMO2025092900262-1,DEMO2025092900262,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,150.83,150.83,ST004,Outdoor equipment shop,tiktok,PH,菲律宾
+DEMO2025092900263-1,DEMO2025092900263,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.36,140.36,ST002,Camplab Outdoor Peak,AliExpress,TH,泰国
+DEMO2025092900264-1,DEMO2025092900264,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,143.45,143.45,ST007,YIHRA,tiktok,TH,泰国
+DEMO2025092900265-1,DEMO2025092900265,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,212.54,212.54,ST003,Coco Sports and Outdoors,tiktok,TH,泰国
+DEMO2025092900266-1,DEMO2025092900266,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,221.87,221.87,ST002,Camplab Outdoor Peak,AliExpress,FR,法国
+DEMO2025092900267-1,DEMO2025092900267,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,2,153.98,307.96,ST003,Coco Sports and Outdoors,mercado,FR,法国
+DEMO2025092900268-1,DEMO2025092900268,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,253.3,253.3,ST004,Outdoor equipment shop,ozon,RU,俄罗斯
+DEMO2025092900269-1,DEMO2025092900269,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,256.0,256.0,ST003,Coco Sports and Outdoors,tiktok,TH,泰国
+DEMO2025092900270-1,DEMO2025092900270,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,136.59,136.59,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900271-1,DEMO2025092900271,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,172.17,172.17,ST004,Outdoor equipment shop,ozon,RU,俄罗斯
+DEMO2025092900272-1,DEMO2025092900272,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,208.93,208.93,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900273-1,DEMO2025092900273,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,139.04,139.04,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900274-1,DEMO2025092900274,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,191.28,191.28,ST005,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900275-1,DEMO2025092900275,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,181.44,181.44,ST002,Camplab Outdoor Peak,temu,TH,泰国
+DEMO2025092900276-1,DEMO2025092900276,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,1,253.12,253.12,ST004,Outdoor equipment shop,temu,MY,马来西亚
+DEMO2025092900277-1,DEMO2025092900277,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,219.01,219.01,ST007,YIHRA,tiktok,FR,法国
+DEMO2025092900278-1,DEMO2025092900278,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,160.67,160.67,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900279-1,DEMO2025092900279,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,2,211.59,423.18,ST007,YIHRA,tiktok,VN,越南
+DEMO2025092900280-1,DEMO2025092900280,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,165.87,165.87,ST003,Coco Sports and Outdoors,tiktok,TH,泰国
+DEMO2025092900281-1,DEMO2025092900281,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,207.72,207.72,ST003,Coco Sports and Outdoors,ozon,MY,马来西亚
+DEMO2025092900282-1,DEMO2025092900282,SKU015,Premium Fishing Rod Kit,高端钓竿套装,/assets/products/placeholder_015.png,Fishing,2,256.0,512.0,ST002,Camplab Outdoor Peak,AliExpress,GB,英国
+DEMO2025092900283-1,DEMO2025092900283,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,188.87,188.87,ST005,Xing Fan Go,temu,TH,泰国
+DEMO2025092900284-1,DEMO2025092900284,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,127.07,127.07,ST006,Xing Fan Go,AliExpress,MY,马来西亚
+DEMO2025092900285-1,DEMO2025092900285,SKU014,Portable Power Station Mini,迷你户外电源,/assets/products/placeholder_014.png,Power,1,241.05,241.05,ST006,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900285-2,DEMO2025092900285,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,162.22,162.22,ST006,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900286-1,DEMO2025092900286,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,182.89,182.89,ST003,Coco Sports and Outdoors,AliExpress,PH,菲律宾
+DEMO2025092900287-1,DEMO2025092900287,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,135.86,135.86,ST007,YIHRA,AliExpress,TH,泰国
+DEMO2025092900288-1,DEMO2025092900288,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,171.67,171.67,ST002,Camplab Outdoor Peak,ozon,TH,泰国
+DEMO2025092900289-1,DEMO2025092900289,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.09,140.09,ST002,Camplab Outdoor Peak,AliExpress,US,美国
+DEMO2025092900290-1,DEMO2025092900290,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,180.4,180.4,ST002,Camplab Outdoor Peak,ozon,RU,俄罗斯
+DEMO2025092900290-2,DEMO2025092900290,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,205.23,205.23,ST002,Camplab Outdoor Peak,ozon,RU,俄罗斯
+DEMO2025092900291-1,DEMO2025092900291,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,209.41,209.41,ST005,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900291-2,DEMO2025092900291,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,171.81,171.81,ST005,Xing Fan Go,tiktok,PH,菲律宾
+DEMO2025092900292-1,DEMO2025092900292,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,173.72,173.72,ST005,Xing Fan Go,temu,VN,越南
+DEMO2025092900293-1,DEMO2025092900293,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,204.27,204.27,ST002,Camplab Outdoor Peak,AliExpress,PH,菲律宾
+DEMO2025092900294-1,DEMO2025092900294,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,184.35,184.35,ST007,YIHRA,tiktok,US,美国
+DEMO2025092900295-1,DEMO2025092900295,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,193.19,193.19,ST003,Coco Sports and Outdoors,tiktok,MY,马来西亚
+DEMO2025092900296-1,DEMO2025092900296,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,197.64,197.64,ST005,Xing Fan Go,tiktok,FR,法国
+DEMO2025092900297-1,DEMO2025092900297,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,140.17,140.17,ST002,Camplab Outdoor Peak,ozon,FR,法国
+DEMO2025092900298-1,DEMO2025092900298,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,169.52,169.52,ST003,Coco Sports and Outdoors,temu,TH,泰国
+DEMO2025092900299-1,DEMO2025092900299,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,229.24,229.24,ST002,Camplab Outdoor Peak,AliExpress,GB,英国
+DEMO2025092900300-1,DEMO2025092900300,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,202.88,202.88,ST005,Xing Fan Go,tiktok,MY,马来西亚
+DEMO2025092900301-1,DEMO2025092900301,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,140.61,140.61,ST001,YHR C,AliExpress,GB,英国
+DEMO2025092900302-1,DEMO2025092900302,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,156.87,156.87,ST007,YIHRA,tiktok,PH,菲律宾
+DEMO2025092900303-1,DEMO2025092900303,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,2,198.63,397.26,ST002,Camplab Outdoor Peak,tiktok,PH,菲律宾
+DEMO2025092900303-2,DEMO2025092900303,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,137.52,137.52,ST002,Camplab Outdoor Peak,tiktok,PH,菲律宾
+DEMO2025092900304-1,DEMO2025092900304,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,165.8,165.8,ST006,Xing Fan Go,AliExpress,VN,越南
+DEMO2025092900305-1,DEMO2025092900305,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,163.11,163.11,ST001,YHR C,tiktok,VN,越南
+DEMO2025092900306-1,DEMO2025092900306,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,219.76,219.76,ST003,Coco Sports and Outdoors,temu,PH,菲律宾
+DEMO2025092900307-1,DEMO2025092900307,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,140.37,140.37,ST007,YIHRA,mercado,GB,英国
+DEMO2025092900308-1,DEMO2025092900308,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,174.36,174.36,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900309-1,DEMO2025092900309,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,219.56,219.56,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900309-2,DEMO2025092900309,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,131.61,131.61,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900310-1,DEMO2025092900310,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,222.76,222.76,ST004,Outdoor equipment shop,temu,PH,菲律宾
+DEMO2025092900311-1,DEMO2025092900311,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,179.05,179.05,ST002,Camplab Outdoor Peak,tiktok,US,美国
+DEMO2025092900312-1,DEMO2025092900312,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,142.97,142.97,ST004,Outdoor equipment shop,temu,TH,泰国
+DEMO2025092900313-1,DEMO2025092900313,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,228.11,228.11,ST001,YHR C,temu,VN,越南
+DEMO2025092900314-1,DEMO2025092900314,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,149.64,149.64,ST005,Xing Fan Go,mercado,GB,英国
+DEMO2025092900315-1,DEMO2025092900315,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,229.54,229.54,ST005,Xing Fan Go,tiktok,VN,越南
+DEMO2025092900316-1,DEMO2025092900316,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,2,143.96,287.92,ST007,YIHRA,temu,MY,马来西亚
+DEMO2025092900317-1,DEMO2025092900317,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,128.27,128.27,ST004,Outdoor equipment shop,temu,VN,越南
+DEMO2025092900317-2,DEMO2025092900317,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,1,199.68,199.68,ST004,Outdoor equipment shop,temu,VN,越南
+DEMO2025092900318-1,DEMO2025092900318,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,205.78,205.78,ST002,Camplab Outdoor Peak,temu,MY,马来西亚
+DEMO2025092900319-1,DEMO2025092900319,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,1,225.49,225.49,ST006,Xing Fan Go,AliExpress,US,美国
+DEMO2025092900320-1,DEMO2025092900320,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,162.18,162.18,ST005,Xing Fan Go,tiktok,FR,法国
+DEMO2025092900321-1,DEMO2025092900321,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,2,226.95,453.9,ST006,Xing Fan Go,ozon,US,美国
+DEMO2025092900322-1,DEMO2025092900322,SKU003,Portable Folding Camping Chair,便携折叠露营椅,/assets/products/placeholder_003.png,Chairs,1,140.65,140.65,ST006,Xing Fan Go,tiktok,US,美国
+DEMO2025092900323-1,DEMO2025092900323,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,189.08,189.08,ST006,Xing Fan Go,temu,GB,英国
+DEMO2025092900324-1,DEMO2025092900324,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,1,236.78,236.78,ST005,Xing Fan Go,tiktok,GB,英国
+DEMO2025092900325-1,DEMO2025092900325,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,154.62,154.62,ST005,Xing Fan Go,temu,MY,马来西亚
+DEMO2025092900326-1,DEMO2025092900326,SKU006,Inflatable Sleeping Pad,充气睡垫,/assets/products/placeholder_006.png,Sleeping,1,167.66,167.66,ST001,YHR C,tiktok,VN,越南
+DEMO2025092900327-1,DEMO2025092900327,SKU008,Carbon Fiber Trekking Poles,碳纤维登山杖,/assets/products/placeholder_008.png,Trekking,1,188.99,188.99,ST004,Outdoor equipment shop,AliExpress,GB,英国
+DEMO2025092900327-2,DEMO2025092900327,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,129.46,129.46,ST004,Outdoor equipment shop,AliExpress,GB,英国
+DEMO2025092900328-1,DEMO2025092900328,SKU012,6-Inch Twin Camping Mattress,6英寸单人露营床垫,/assets/products/placeholder_012.png,Mattress,2,233.42,466.84,ST003,Coco Sports and Outdoors,AliExpress,RU,俄罗斯
+DEMO2025092900329-1,DEMO2025092900329,SKU005,Rechargeable LED Camping Lantern,充电式LED露营灯,/assets/products/placeholder_005.png,Lighting,1,163.93,163.93,ST002,Camplab Outdoor Peak,tiktok,FR,法国
+DEMO2025092900330-1,DEMO2025092900330,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,125.84,125.84,ST003,Coco Sports and Outdoors,AliExpress,GB,英国
+DEMO2025092900331-1,DEMO2025092900331,SKU011,Waterproof Hiking Rain Jacket,防水徒步冲锋衣,/assets/products/placeholder_011.png,Apparel,1,206.53,206.53,ST007,YIHRA,tiktok,VN,越南
+DEMO2025092900332-1,DEMO2025092900332,SKU010,Compact Camping Cookware Set,便携露营炊具套装,/assets/products/placeholder_010.png,Cooking,1,200.59,200.59,ST001,YHR C,tiktok,VN,越南
+DEMO2025092900333-1,DEMO2025092900333,SKU004,Waterproof Outdoor Tarp,防水户外天幕,/assets/products/placeholder_004.png,Shelter,1,156.88,156.88,ST005,Xing Fan Go,temu,PH,菲律宾
+DEMO2025092900334-1,DEMO2025092900334,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,179.64,179.64,ST004,Outdoor equipment shop,temu,VN,越南
+DEMO2025092900335-1,DEMO2025092900335,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,1,125.68,125.68,ST002,Camplab Outdoor Peak,AliExpress,FR,法国
+DEMO2025092900336-1,DEMO2025092900336,SKU002,Lightweight Hiking Backpack 45L,45L轻量徒步背包,/assets/products/placeholder_002.png,Backpacks,1,139.72,139.72,ST001,YHR C,tiktok,VN,越南
+DEMO2025092900337-1,DEMO2025092900337,SKU001,2-Person Pop-Up Camping Tent,双人速开露营帐篷,/assets/products/placeholder_001.png,Tents,2,128.2,256.4,ST002,Camplab Outdoor Peak,temu,RU,俄罗斯
+DEMO2025092900338-1,DEMO2025092900338,SKU009,All-Season Sleeping Bag,全季节睡袋,/assets/products/placeholder_009.png,Sleeping,2,196.64,393.28,ST002,Camplab Outdoor Peak,AliExpress,FR,法国
+DEMO2025092900339-1,DEMO2025092900339,SKU007,Insulated Outdoor Cooler Bag,保温户外冷藏包,/assets/products/placeholder_007.png,Coolers,1,172.93,172.93,ST001,YHR C,tiktok,US,美国
+DEMO2025092900340-1,DEMO2025092900340,SKU013,Family Outdoor Canopy Tent,家庭户外遮阳篷,/assets/products/placeholder_013.png,Tents,2,234.89,469.78,ST002,Camplab Outdoor Peak,mercado,VN,越南

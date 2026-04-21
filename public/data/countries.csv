@@ -1,0 +1,9 @@
+country_code,country_name_cn,country_name_en,map_name,timezone,sales_weight,time_zone_note,preferred_sales_local_hours,dashboard_timezone
+GB,英国,United Kingdom,United Kingdom,Europe/London,0.12,英国按 Europe/London 处理，Demo 日期会自动含夏令时,"12-13,18-22",UTC+8
+FR,法国,France,France,Europe/Paris,0.12,法国按 Europe/Paris 处理，Demo 日期会自动含夏令时,"12-13,18-22",UTC+8
+US,美国,United States,United States of America,America/New_York,0.26,美国按东部时间 America/New_York 作为 Demo 主时区,"12-13,18-22",UTC+8
+RU,俄罗斯,Russia,Russia,Europe/Moscow,0.12,俄罗斯按莫斯科时间 Europe/Moscow 作为 Demo 主时区,"12-13,18-22",UTC+8
+VN,越南,Vietnam,Vietnam,Asia/Ho_Chi_Minh,0.1,越南按 Asia/Ho_Chi_Minh 处理,"12-13,18-22",UTC+8
+PH,菲律宾,Philippines,Philippines,Asia/Manila,0.09,菲律宾按 Asia/Manila 处理,"12-13,18-22",UTC+8
+TH,泰国,Thailand,Thailand,Asia/Bangkok,0.09,泰国按 Asia/Bangkok 处理,"12-13,18-22",UTC+8
+MY,马来西亚,Malaysia,Malaysia,Asia/Kuala_Lumpur,0.1,马来西亚按 Asia/Kuala_Lumpur 处理,"12-13,18-22",UTC+8

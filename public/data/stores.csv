@@ -1,0 +1,8 @@
+﻿store_id,store_name,store_display_name,store_note,business_type,active,display_order
+ST001,YHR C,YHR C,,自营,Y,1
+ST002,Camplab Outdoor Peak,Camplab Outdoor Peak,,自营,Y,2
+ST003,Coco Sports and Outdoors,Coco Sports and Outdoors,,自营,Y,3
+ST004,Outdoor equipment shop,Outdoor equipment shop,,自营,Y,4
+ST005,Xing Fan Go,Xing Fan Go,同名店铺 1，使用 store_id 区分,自营,Y,5
+ST006,Xing Fan Go,Xing Fan Go,同名店铺 2，使用 store_id 区分,自营,Y,6
+ST007,YIHRA,YIHRA,,自营,Y,7
